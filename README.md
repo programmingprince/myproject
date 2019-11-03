@@ -1,0 +1,1 @@
+This is a test project. The technology used in this project is python.
